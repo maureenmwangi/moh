@@ -81,15 +81,80 @@ h2{
     height: 200px;
 }
 
+
+/*Section 3*/
 .sec3 {
     padding: 0px;
     display: inline-block;
     text-align: center;
 }
+
+/*Chnages*/
+.changes {
+    width: 30%;
+    box-shadow: 0px 0px 5px grey;
+}
+.c1 img{
+    width: 25%;
+}
+.p1 {
+    font-size: 12px;
+}
+
+.k-cart{
+    display: flex;
+}
+
+.cart12{
+    margin-left: 60%;
+}
+
+
+
+
+
+/*End of cChnages*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .button{
     float: right;
     color:gray
     
+}
+.button {
+    float: right;
+    height: 10%;
+
+}
+.changes2{
+    width: 10%;
 }
 
 .ourmenu {
