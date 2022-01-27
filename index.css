@@ -263,9 +263,7 @@ ul {
     float:left;
 
 }
-.right4{
-    float:right;
-}
+
 .double{
     float: left;
     margin: 5%;
@@ -282,4 +280,8 @@ ul {
 .discover{
     background-color: orange;
     display: flex;
+}
+.mobile{
+    margin-right: 10px;
+    float: right;
 }
