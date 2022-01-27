@@ -263,10 +263,6 @@ ul {
     float:left;
 
 }
-.right3{
-    float:right
-
-}
 .right4{
     float:right;
 }
@@ -282,6 +278,8 @@ ul {
 .twoimage{
     margin-right: 5px;
     float: right;
-    
-    
+}
+.discover{
+    background-color: orange;
+    display: flex;
 }
