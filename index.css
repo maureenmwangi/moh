@@ -122,49 +122,11 @@ margin-top: 50px;
     margin-left: 39%;
 }
 
-
-
-
-
-/*End of cChnages*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .button{
     float: right;
-    color:gray
+    color:gray;
+    height:10%;
     
-}
-.button {
-    float: right;
-    height: 10%;
-
 }
 .changes2{
     width: 10%;
@@ -307,4 +269,11 @@ ul {
 }
 .right4{
     float:right;
+}
+.double{
+    float: left;
+    margin: 5%;
+
+.check2{
+    display:inline-block;
 }
