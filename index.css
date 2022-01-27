@@ -288,3 +288,6 @@ ul {
 .apps{
     font-size: 200%;
 }
+.left{
+    float: left;
+}
