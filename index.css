@@ -273,13 +273,15 @@ ul {
 .double{
     float: left;
     margin: 5%;
-
-.check2{
-    display:inline-block;
 }
-.twoimages{
-    overflow-clip-margin:inherit;
+.check2{
+    display: flex;
+    background-color: #E1EBE6;
+}
+
+.twoimage{
     margin-right: 5px;
-    flex-flow: row-reverse;
+    float: right;
+    
     
 }
