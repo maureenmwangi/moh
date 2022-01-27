@@ -93,6 +93,7 @@ h2{
 .changes {
     width: 30%;
     box-shadow: 0px 0px 5px grey;
+    display: inline-block;
 }
 .c1 img{
     width: 25%;
